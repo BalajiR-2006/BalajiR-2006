@@ -11,19 +11,10 @@
 
 ## 🚀 About Me
 
-I’m a developer-researcher blending **AI/ML** with **Electrical Engineering**.  
-From **wildlife detection ** to **RAG-powered LLMs**, I love bringing together intelligent systems, efficient code, and real-world use cases.
+I am a second-year B.Tech student specializing in Electrical and Electronics Engineering (EEE) at the National Institute of Technology Calicut (NITC). Alongside my major, I am pursuing a minor in Artificial Intelligence (AI) and Machine Learning (ML), driven by a deep interest in the transformative potential of intelligent systems and emerging technologies.
 
 ---
 
-## 🛠️ Notable Projects
-
-- 🦉 **Wildlife Detection System** – YOLO-based deep learning on Raspberry Pi  
-- 📚 **BookQuery AI** – LangChain + Hugging Face powered RAG search over documents   
-- 🖼️ **AutoPPT** – Topic-to-slide AI tool using LangChain + Python-pptx  
-- 🌐 **Portfolio Website** – Clean, responsive site with animation-rich UI
-
----
 
 ## 📚 Research & Club Work
 👥 **AI Club – NITC**  
@@ -33,8 +24,9 @@ Organized workshops, reproduced cutting-edge papers, and built a research-focuse
 
 ## 🌱 Currently Learning
  
-- 🧠 Transformers | Prompt Engineering | LLM Optimization  
-- 🌐 Full-Stack AI Deployment using React, FastAPI
+- 🧠 Machine Learning | Deep Learning | Computer Vision | Transformers | Prompt Engineering | LLM Optimization | 
+- 🌐 Full-Stack Development
+- 👨‍💻 DSA
 
 ---
 
